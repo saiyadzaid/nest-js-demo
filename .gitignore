@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # compiled output
 /dist
 /node_modules
 
+=======
+>>>>>>> 6295d7442719f9c4f55e4a164a6a3680c188c5a0
 # Logs
 logs
 *.log
